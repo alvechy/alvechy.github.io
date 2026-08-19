@@ -8,9 +8,9 @@ const github = graphql.defaults({
 });
 
 export const PARAMS = {
-  repo: "lexswed.github.io",
-  owner: "LexSwed",
-  query: 'repo:"LexSwed/lexswed.github.io" label:_published',
+  repo: "alvechy.github.io",
+  owner: "alvechy",
+  query: 'repo:"alvechy/alvechy.github.io" label:_published',
   shortsCollectionId: 33,
 };
 
